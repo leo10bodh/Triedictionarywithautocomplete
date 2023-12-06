@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1655206695 source:c:\users\dell\onedrive\desktop\trie5\dictionary.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1654370398 c:\users\dell\onedrive\desktop\trie5\header.h
+
+1655280986 source:c:\users\dell\onedrive\desktop\trie5\util.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
